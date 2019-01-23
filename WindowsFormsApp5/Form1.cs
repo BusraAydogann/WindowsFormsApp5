@@ -19,7 +19,7 @@ namespace WindowsFormsApp5
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("Merhaba");
+            MessageBox.Show("Merhaba Demet");
         }
     }
 }
